@@ -1,0 +1,36 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.33s] [SUCCESS]-Create: Static Response Callbacks
+[0.34s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.35s] [SUCCESS]-Create: Cache Callback
+[0.35s] [SUCCESS]-Create: Start Callback
+[0.36s] [SUCCESS]-Create: Receive Callback
+[0.36s] [SUCCESS]-Create: Respond Callback
+[0.36s] [SUCCESS]-Create: Classes as global variables
+[0.38s] [SUCCESS]-Create: Item Action Callbacks
+[0.38s] -┌────────────────────────┐
+[0.38s] -│ JustEmuTarkov 1.0.3    │
+[0.38s] -│ « discord.gg/T66tGKa » │
+[0.38s] -└────────────────────────┘
+[3.52s] [SUCCESS]-[LootFix] Settings applied
+[3.71s] [SUCCESS]-[MOD] Loading Mini 14; Applied
+[5.41s] [SUCCESS]-[MOD] LootFix; Applied
+[5.42s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[6.39s] [LOCAL] -/launcher/server/connect
+[14.32s] [LOCAL] -/launcher/profile/register
+[14.33s] [LOCAL] -/launcher/profile/login
+[14.33s] [LOCAL] -/launcher/profile/get
+[14.72s] [AID014158596853526243bXu][LOCAL] -/launcher/profile/login
+[14.72s] [AID014158596853526243bXu][LOCAL] -/launcher/profile/get
+[20.97s] [LOCAL] -/singleplayer/bundles
+[21.17s] [LOCAL] -/mode/offline
+[33.25s] [AID014158596853526243bXu][LOCAL] -/client/game/start
+[33.26s] [WARNING]-New account login!
+[33.31s] [AID014158596853526243bXu][LOCAL] -/client/menu/locale/en
+[33.36s] [AID014158596853526243bXu][LOCAL] -/client/game/version/validate
+[33.40s] [AID014158596853526243bXu][LOCAL] -/client/languages
+[33.44s] [AID014158596853526243bXu][LOCAL] -/client/game/config
+[34.46s] [AID014158596853526243bXu][LOCAL] -/client/items
+[71.58s] [AID014158596853526243bXu][LOCAL] -/client/items?retry=1
+[134.53s] [AID014158596853526243bXu][LOCAL] -/client/items?retry=2
+[197.21s] [AID014158596853526243bXu][LOCAL] -/client/items?retry=3

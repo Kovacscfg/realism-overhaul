@@ -1,0 +1,13 @@
+{
+	"autoUpdate": true,
+	"checkUpdateUrl": "https://raw.githubusercontent.com/AppeazeTheCheese/JETLootFix/main/updater.json",
+	
+	"name": "LootFix",
+	"author": "CFG",
+	"version": "1.0.6",
+	"license": "MIT",
+	"src": {
+		"src/init.js": "TamperModLoad",
+		"src/cacheSettings.js" : "CacheModLoad"
+	}
+}

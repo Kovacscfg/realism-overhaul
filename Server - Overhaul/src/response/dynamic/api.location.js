@@ -1,0 +1,1 @@
+exports.execute = (url, info, sessionID) => response_f.noBody(location_f.handler.get(url.replace("/api/location/", "")));

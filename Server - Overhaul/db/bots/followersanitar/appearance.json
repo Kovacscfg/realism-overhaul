@@ -1,0 +1,22 @@
+{
+	"body": {
+		"5df8a10486f77412672a1e3a": "5df8a10486f77412672a1e3a"
+	},
+	"feet": {
+		"5cc2e5d014c02e15d53d9c03": "5cc2e5d014c02e15d53d9c03"
+	},
+	"hands": {
+		"5df8eac086f77412640e2ea7": "5df8eac086f77412640e2ea7"
+	},
+	"head": {
+		"5cc2e4d014c02e000d0115f8": "5cc2e4d014c02e000d0115f8"
+	},
+	"voice": {
+		"scav_1": "Scav_1",
+		"scav_2": "Scav_2",
+		"scav_3": "Scav_3",
+		"scav_4": "Scav_4",
+		"scav_5": "Scav_5",
+		"scav_6": "Scav_6"
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"AID8131647517931710690RF": {
+		"id": "AID8131647517931710690RF",
+		"nickname": "",
+		"email": "Maoci",
+		"password": "123",
+		"wipe": false,
+		"edition": "Edge Of Darkness"
+	},
+	"AID014120227198547857TH6": {
+		"id": "AID014120227198547857TH6",
+		"nickname": "",
+		"email": "test",
+		"password": "test",
+		"wipe": false,
+		"edition": "Edge Of Darkness"
+	},
+	"AID014158596853526243bXu": {
+		"id": "AID014158596853526243bXu",
+		"nickname": "",
+		"email": "test1",
+		"password": "test1",
+		"wipe": false,
+		"edition": "Edge Of Darkness"
+	},
+	"AID015916142421800907Ngp": {
+		"id": "AID015916142421800907Ngp",
+		"nickname": "",
+		"email": "Kovac",
+		"password": "123",
+		"wipe": false,
+		"edition": "Edge Of Darkness"
+	},
+	"AID015919146370226073L4Q": {
+		"id": "AID015919146370226073L4Q",
+		"nickname": "",
+		"email": "Kovac1",
+		"password": "123",
+		"wipe": false,
+		"edition": "Edge Of Darkness"
+	}
+}

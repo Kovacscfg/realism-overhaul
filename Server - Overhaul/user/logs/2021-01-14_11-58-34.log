@@ -1,0 +1,34 @@
+[0.06s] [WARNING]-Mod CFG-LootFix-1.0.6 not installed, adding it to the modlist
+[0.08s] [WARNING]-Mod Kovacs-mini14-1.0.0 not installed, adding it to the modlist
+[0.09s] [WARNING]-Rebuilding cache system
+[0.70s] [SUCCESS]-Create: Static Response Callbacks
+[0.81s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.92s] [SUCCESS]-Create: Cache Callback
+[0.98s] [SUCCESS]-Create: Start Callback
+[0.99s] [SUCCESS]-Create: Receive Callback
+[1.01s] [SUCCESS]-Create: Respond Callback
+[1.01s] [SUCCESS]-Create: Classes as global variables
+[1.36s] [SUCCESS]-Create: Item Action Callbacks
+[1.36s] -┌────────────────────────┐
+[1.36s] -│ JustEmuTarkov 1.0.3    │
+[1.36s] -│ « discord.gg/T66tGKa » │
+[1.36s] -└────────────────────────┘
+[6.68s] [SUCCESS]-[LootFix] Settings applied
+[6.77s] [ERROR]-[Server]:1.0.3
+[6.77s] [ERROR]-[Trace]:
+Error: ENOENT: no such file or directory, open 'D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\user\mods\Kovacs-mini14-1.0.0\files\items\300BLK.json'
+    at Object.openSync (fs.js:440:3)
+    at Object.readFileSync (fs.js:342:35)
+    at Object.readFileSync (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\Server.exe:201:55)
+    at Object.exports.readParsed (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\util\fileIO.js:1:332)
+    at exports.mod (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\user\mods\Kovacs-mini14-1.0.0\src\modloader.js:30:33)
+    at loadMod (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\server\route.js:7:171)
+    at Object.exports.CacheModLoad (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\server\route.js:8:202)
+    at Server.start (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\server\server.js:24:187)
+    at new Initializer (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\initializer.js:2:176)
+    at Object.<anonymous> (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\initializer.js:7:494) {
+  errno: -4058,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'D:\\EFT stuff\\JustEmuTarkov\\Game Installs\\Jet-AIO\\Server\\user\\mods\\Kovacs-mini14-1.0.0\\files\\items\\300BLK.json'
+}

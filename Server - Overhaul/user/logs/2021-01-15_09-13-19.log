@@ -1,0 +1,43 @@
+[0.72s] [SUCCESS]-Create: Static Response Callbacks
+[0.85s] [SUCCESS]-Create: Dynamic Response Callbacks
+[1.00s] [SUCCESS]-Create: Cache Callback
+[1.07s] [SUCCESS]-Create: Start Callback
+[1.08s] [SUCCESS]-Create: Receive Callback
+[1.10s] [SUCCESS]-Create: Respond Callback
+[1.10s] [SUCCESS]-Create: Classes as global variables
+[1.50s] [SUCCESS]-Create: Item Action Callbacks
+[1.50s] -┌────────────────────────┐
+[1.50s] -│ JustEmuTarkov 1.0.3    │
+[1.50s] -│ « discord.gg/T66tGKa » │
+[1.50s] -└────────────────────────┘
+[4.62s] [SUCCESS]-[MOD] LootFix; Applied
+[4.66s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[164.73s] [LOCAL] -/launcher/server/connect
+[174.86s] [LOCAL] -/launcher/profile/register
+[174.87s] [LOCAL] -/launcher/profile/login
+[174.87s] [LOCAL] -/launcher/profile/get
+[175.34s] [AID015916142421800907Ngp][LOCAL] -/launcher/profile/login
+[175.34s] [AID015916142421800907Ngp][LOCAL] -/launcher/profile/get
+[189.16s] [LOCAL] -/singleplayer/bundles
+[189.37s] [LOCAL] -/mode/offline
+[205.17s] [AID015916142421800907Ngp][LOCAL] -/client/game/start
+[205.17s] [WARNING]-New account login!
+[205.24s] [AID015916142421800907Ngp][LOCAL] -/client/menu/locale/en
+[205.29s] [AID015916142421800907Ngp][LOCAL] -/client/game/version/validate
+[205.32s] [AID015916142421800907Ngp][LOCAL] -/client/languages
+[205.37s] [AID015916142421800907Ngp][LOCAL] -/client/game/config
+[206.54s] [AID015916142421800907Ngp][LOCAL] -/client/items
+[215.64s] [AID015916142421800907Ngp][LOCAL] -/client/customization
+[230.68s] [AID015916142421800907Ngp][LOCAL] -/client/globals
+[231.38s] [AID015916142421800907Ngp][LOCAL] -/client/game/profile/list
+[231.45s] [AID015916142421800907Ngp][LOCAL] -/client/locale/en
+[231.95s] [AID015916142421800907Ngp][LOCAL] -/client/locale/ru
+[232.38s] [AID015916142421800907Ngp][LOCAL] -/client/locale/ge
+[232.66s] [AID015916142421800907Ngp][LOCAL] -/client/locale/fr
+[233.72s] [AID015916142421800907Ngp][LOCAL] -/client/game/profile/nickname/reserved
+[241.80s] [AID015916142421800907Ngp][LOCAL] -/client/game/profile/nickname/validate
+[247.17s] [AID015916142421800907Ngp][LOCAL] -/client/game/profile/create
+[247.34s] [AID015916142421800907Ngp][LOCAL] -/client/weather
+[247.36s] [AID015916142421800907Ngp][LOCAL] -/client/locations
+[247.38s] [AID015916142421800907Ngp][LOCAL] -/client/game/profile/list
+[277.48s] [AID015916142421800907Ngp][LOCAL] -/client/game/profile/list?retry=1

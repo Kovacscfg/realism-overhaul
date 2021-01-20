@@ -1,0 +1,14 @@
+[0.10s] [SUCCESS]-Create: Static Response Callbacks
+[0.11s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.12s] [SUCCESS]-Create: Cache Callback
+[0.12s] [SUCCESS]-Create: Start Callback
+[0.12s] [SUCCESS]-Create: Receive Callback
+[0.13s] [SUCCESS]-Create: Respond Callback
+[0.13s] [SUCCESS]-Create: Classes as global variables
+[0.14s] [SUCCESS]-Create: Item Action Callbacks
+[0.15s] -┌────────────────────────┐
+[0.15s] -│ JustEmuTarkov 1.0.3    │
+[0.15s] -│ « discord.gg/T66tGKa » │
+[0.15s] -└────────────────────────┘
+[1.80s] [SUCCESS]-[MOD] LootFix; Applied
+[1.82s] [SUCCESS]-Server is working at: https://127.0.0.1:443

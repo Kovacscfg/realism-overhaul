@@ -1,0 +1,32 @@
+[0.04s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.24s] [WARNING]-Mod CFG-LootFix-1.0.6 not installed, adding it to the modlist
+[0.25s] [WARNING]-Mod Kovacs-mini14-1.0.0 not installed, adding it to the modlist
+[0.31s] [SUCCESS]-Create: Static Response Callbacks
+[0.31s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.32s] [SUCCESS]-Create: Cache Callback
+[0.33s] [SUCCESS]-Create: Start Callback
+[0.33s] [SUCCESS]-Create: Receive Callback
+[0.33s] [SUCCESS]-Create: Respond Callback
+[0.33s] [SUCCESS]-Create: Classes as global variables
+[0.35s] [SUCCESS]-Create: Item Action Callbacks
+[0.35s] -┌────────────────────────┐
+[0.35s] -│ JustEmuTarkov 1.0.3    │
+[0.35s] -│ « discord.gg/T66tGKa » │
+[0.35s] -└────────────────────────┘
+[3.18s] [SUCCESS]-[LootFix] Settings applied
+[3.38s] [SUCCESS]-[MOD] Loading Mini 14; Applied
+[4.91s] [SUCCESS]-[MOD] LootFix; Applied
+[4.93s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[9.59s] [LOCAL] -/launcher/server/connect
+[10.98s] [LOCAL] -/launcher/profile/login
+[10.99s] [LOCAL] -/launcher/profile/get
+[16.48s] [LOCAL] -/singleplayer/bundles
+[16.70s] [LOCAL] -/mode/offline
+[28.54s] [AID014120227198547857TH6][LOCAL] -/client/game/start
+[28.59s] [AID014120227198547857TH6][LOCAL] -/client/menu/locale/en
+[28.64s] [AID014120227198547857TH6][LOCAL] -/client/game/version/validate
+[28.68s] [AID014120227198547857TH6][LOCAL] -/client/languages
+[28.72s] [AID014120227198547857TH6][LOCAL] -/client/game/config
+[29.68s] [AID014120227198547857TH6][LOCAL] -/client/items
+[66.79s] [AID014120227198547857TH6][LOCAL] -/client/items?retry=1

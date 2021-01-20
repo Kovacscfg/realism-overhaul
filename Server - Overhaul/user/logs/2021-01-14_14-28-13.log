@@ -1,0 +1,29 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.42s] [SUCCESS]-Create: Static Response Callbacks
+[0.43s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.44s] [SUCCESS]-Create: Cache Callback
+[0.45s] [SUCCESS]-Create: Start Callback
+[0.45s] [SUCCESS]-Create: Receive Callback
+[0.45s] [SUCCESS]-Create: Respond Callback
+[0.45s] [SUCCESS]-Create: Classes as global variables
+[0.47s] [SUCCESS]-Create: Item Action Callbacks
+[0.47s] -┌────────────────────────┐
+[0.48s] -│ JustEmuTarkov 1.0.3    │
+[0.48s] -│ « discord.gg/T66tGKa » │
+[0.48s] -└────────────────────────┘
+[3.36s] [SUCCESS]-[LootFix] Settings applied
+[3.54s] [SUCCESS]-[MOD] Loading Mini 14; Applied
+[4.21s] [ERROR]-[Server]:1.0.3
+[4.21s] [ERROR]-[Trace]:
+TypeError: Cannot read property 'ExaminedByDefault' of undefined
+    at exports.mod (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\user\mods\TheMaoci-AllItemsExamined-1.0.0\src\AllItemsExamined.js:5:18)
+    at loadMod (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\server\route.js:7:171)
+    at Object.exports.TamperModLoad (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\server\route.js:9:250)
+    at Server.start (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\server\server.js:24:419)
+    at new Initializer (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\initializer.js:2:176)
+    at Object.<anonymous> (D:\EFT stuff\JustEmuTarkov\Game Installs\Jet-AIO\Server\core\initializer.js:7:494)
+    at Module._compile (internal/modules/cjs/loader.js:955:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:991:10)
+    at Module.load (internal/modules/cjs/loader.js:811:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:723:14)

@@ -1,0 +1,55 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.27s] [WARNING]-Mod CFG-LootFix-1.0.6 not installed, adding it to the modlist
+[0.31s] [SUCCESS]-Create: Static Response Callbacks
+[0.32s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.33s] [SUCCESS]-Create: Cache Callback
+[0.33s] [SUCCESS]-Create: Start Callback
+[0.34s] [SUCCESS]-Create: Receive Callback
+[0.34s] [SUCCESS]-Create: Respond Callback
+[0.34s] [SUCCESS]-Create: Classes as global variables
+[0.35s] [SUCCESS]-Create: Item Action Callbacks
+[0.36s] -┌────────────────────────┐
+[0.36s] -│ JustEmuTarkov 1.0.3    │
+[0.36s] -│ « discord.gg/T66tGKa » │
+[0.36s] -└────────────────────────┘
+[3.06s] [SUCCESS]-[LootFix] Settings applied
+[4.59s] [SUCCESS]-[MOD] LootFix; Applied
+[4.63s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[8.08s] [LOCAL] -/launcher/server/connect
+[9.65s] [LOCAL] -/launcher/profile/login
+[9.65s] [LOCAL] -/launcher/profile/get
+[15.30s] [LOCAL] -/singleplayer/bundles
+[15.49s] [LOCAL] -/mode/offline
+[27.44s] [AID014158596853526243bXu][LOCAL] -/client/game/start
+[27.45s] [WARNING]-New account login!
+[27.50s] [AID014158596853526243bXu][LOCAL] -/client/menu/locale/en
+[27.55s] [AID014158596853526243bXu][LOCAL] -/client/game/version/validate
+[27.58s] [AID014158596853526243bXu][LOCAL] -/client/languages
+[27.62s] [AID014158596853526243bXu][LOCAL] -/client/game/config
+[28.64s] [AID014158596853526243bXu][LOCAL] -/client/items
+[38.57s] [AID014158596853526243bXu][LOCAL] -/client/customization
+[38.59s] [AID014158596853526243bXu][LOCAL] -/client/globals
+[39.59s] [AID014158596853526243bXu][LOCAL] -/client/game/profile/list
+[39.79s] [AID014158596853526243bXu][LOCAL] -/client/locale/en
+[40.62s] [AID014158596853526243bXu][LOCAL] -/client/locale/ru
+[41.07s] [AID014158596853526243bXu][LOCAL] -/client/locale/ge
+[41.33s] [AID014158596853526243bXu][LOCAL] -/client/locale/fr
+[42.21s] [AID014158596853526243bXu][LOCAL] -/client/game/profile/nickname/reserved
+[47.64s] [AID014158596853526243bXu][LOCAL] -/client/game/profile/nickname/validate
+[50.35s] [AID014158596853526243bXu][LOCAL] -/client/game/profile/create
+[50.41s] [AID014158596853526243bXu][LOCAL] -/client/weather
+[50.42s] [AID014158596853526243bXu][LOCAL] -/client/locations
+[50.45s] [AID014158596853526243bXu][LOCAL] -/client/game/profile/list
+[80.79s] [AID014158596853526243bXu][LOCAL] -/client/game/profile/list?retry=1
+[93.92s] [LOCAL] -/singleplayer/bundles
+[94.12s] [LOCAL] -/mode/offline
+[106.32s] [AID014158596853526243bXu][LOCAL] -/client/game/start
+[106.38s] [AID014158596853526243bXu][LOCAL] -/client/menu/locale/en
+[106.43s] [AID014158596853526243bXu][LOCAL] -/client/game/version/validate
+[106.46s] [AID014158596853526243bXu][LOCAL] -/client/languages
+[106.50s] [AID014158596853526243bXu][LOCAL] -/client/game/config
+[107.43s] [AID014158596853526243bXu][LOCAL] -/client/items
+[117.23s] [AID014158596853526243bXu][LOCAL] -/client/customization
+[117.25s] [AID014158596853526243bXu][LOCAL] -/client/globals
+[118.23s] [AID014158596853526243bXu][LOCAL] -/client/game/profile/list

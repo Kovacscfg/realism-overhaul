@@ -1,0 +1,18 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.33s] [SUCCESS]-Create: Static Response Callbacks
+[0.34s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.34s] [SUCCESS]-Create: Cache Callback
+[0.35s] [SUCCESS]-Create: Start Callback
+[0.35s] [SUCCESS]-Create: Receive Callback
+[0.35s] [SUCCESS]-Create: Respond Callback
+[0.35s] [SUCCESS]-Create: Classes as global variables
+[0.37s] [SUCCESS]-Create: Item Action Callbacks
+[0.37s] -┌────────────────────────┐
+[0.37s] -│ JustEmuTarkov 1.0.3    │
+[0.37s] -│ « discord.gg/T66tGKa » │
+[0.37s] -└────────────────────────┘
+[3.38s] [SUCCESS]-[LootFix] Settings applied
+[3.56s] [SUCCESS]-[MOD] Loading Mini 14; Applied
+[5.17s] [SUCCESS]-[MOD] LootFix; Applied
+[5.18s] [SUCCESS]-Server is working at: https://127.0.0.1:443

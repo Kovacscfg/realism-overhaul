@@ -1,0 +1,31 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.05s] [WARNING]-Rebuilding cache system
+[0.32s] [SUCCESS]-Create: Static Response Callbacks
+[0.33s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.34s] [SUCCESS]-Create: Cache Callback
+[0.34s] [SUCCESS]-Create: Start Callback
+[0.35s] [SUCCESS]-Create: Receive Callback
+[0.35s] [SUCCESS]-Create: Respond Callback
+[0.35s] [SUCCESS]-Create: Classes as global variables
+[0.38s] [SUCCESS]-Create: Item Action Callbacks
+[0.38s] -┌────────────────────────┐
+[0.38s] -│ JustEmuTarkov 1.0.3    │
+[0.38s] -│ « discord.gg/T66tGKa » │
+[0.38s] -└────────────────────────┘
+[3.11s] [SUCCESS]-[LootFix] Settings applied
+[3.31s] [SUCCESS]-[MOD] Loading Mini 14; Applied
+[4.82s] [SUCCESS]-[MOD] LootFix; Applied
+[4.86s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[9.51s] [LOCAL] -/launcher/server/connect
+[15.68s] [LOCAL] -/launcher/profile/login
+[15.68s] [LOCAL] -/launcher/profile/get
+[21.38s] [LOCAL] -/singleplayer/bundles
+[21.57s] [LOCAL] -/mode/offline
+[33.70s] [AID014158596853526243bXu][LOCAL] -/client/game/start
+[33.70s] [WARNING]-New account login!
+[33.75s] [AID014158596853526243bXu][LOCAL] -/client/menu/locale/en
+[33.80s] [AID014158596853526243bXu][LOCAL] -/client/game/version/validate
+[33.84s] [AID014158596853526243bXu][LOCAL] -/client/languages
+[33.87s] [AID014158596853526243bXu][LOCAL] -/client/game/config
+[34.85s] [AID014158596853526243bXu][LOCAL] -/client/items
+[72.09s] [AID014158596853526243bXu][LOCAL] -/client/items?retry=1

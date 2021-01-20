@@ -1,0 +1,102 @@
+[0.11s] [SUCCESS]-Create: Static Response Callbacks
+[0.13s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.14s] [SUCCESS]-Create: Cache Callback
+[0.14s] [SUCCESS]-Create: Start Callback
+[0.14s] [SUCCESS]-Create: Receive Callback
+[0.15s] [SUCCESS]-Create: Respond Callback
+[0.15s] [SUCCESS]-Create: Classes as global variables
+[0.17s] [SUCCESS]-Create: Item Action Callbacks
+[0.17s] -┌────────────────────────┐
+[0.17s] -│ JustEmuTarkov 1.0.3    │
+[0.17s] -│ « discord.gg/T66tGKa » │
+[0.17s] -└────────────────────────┘
+[1.67s] [SUCCESS]-[MOD] LootFix; Applied
+[1.70s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[53.48s] [LOCAL] -/singleplayer/bundles
+[53.64s] [LOCAL] -/mode/offline
+[65.15s] [AID015919146370226073L4Q][LOCAL] -/client/game/start
+[65.20s] [AID015919146370226073L4Q][LOCAL] -/client/menu/locale/en
+[65.26s] [AID015919146370226073L4Q][LOCAL] -/client/game/version/validate
+[65.29s] [AID015919146370226073L4Q][LOCAL] -/client/languages
+[65.33s] [AID015919146370226073L4Q][LOCAL] -/client/game/config
+[66.24s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[75.99s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[76.05s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[77.09s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[77.99s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[78.03s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[78.08s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[78.10s] [AID015919146370226073L4Q][LOCAL] -/client/locale/en
+[78.10s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[78.14s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[78.20s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[79.01s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[84.06s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[84.40s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[84.46s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[84.63s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[84.72s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[84.83s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[85.92s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[86.98s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[87.01s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[87.01s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[87.01s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[87.01s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[87.07s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[87.19s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[87.20s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[87.37s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[96.08s] [AID015919146370226073L4Q][LOCAL] -/client/ragfair/find
+[99.21s] [AID015919146370226073L4Q][LOCAL] -/client/ragfair/find
+[102.34s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[102.36s] [SUCCESS]-Items taken. Status OK.
+[102.36s] [SUCCESS]-Bought item: 5c0e53c886f7747fa54205c7
+[162.35s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[241.12s] [LOCAL] -/singleplayer/settings/raid/menu
+[243.05s] [AID015919146370226073L4Q][LOCAL] -/client/insurance/items/list/cost
+[365.40s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharScout
+[365.41s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharSecurity
+[365.43s] [LOCAL] -/singleplayer/settings/bot/limit/marksman
+[365.44s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharAssault
+[365.46s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharAssault
+[365.47s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharScout
+[365.48s] [LOCAL] -/singleplayer/settings/bot/limit/followerGluharSecurity
+[365.49s] [LOCAL] -/singleplayer/settings/bot/limit/bossBully
+[365.50s] [LOCAL] -/singleplayer/settings/bot/limit/followerBully
+[365.54s] [AID015919146370226073L4Q][LOCAL] -/client/game/bot/generate
+[2310.32s] [AID015919146370226073L4Q][LOCAL] -/raid/profile/save
+[2310.33s] [ERROR]-insurance Disabled!! cause of varaible undefined or file not found. Check line 249-250 at src/classes/offraid.js
+[2310.33s] [ERROR]-Disabling: Remove map key on entering, cause of offraid_f.handler.players[sessionID] is undefined
+[2318.45s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[2393.54s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[2394.86s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/items/moving
+[2394.86s] [SUCCESS]-Items taken. Status OK.
+[2400.06s] [AID015919146370226073L4Q][LOCAL] -/client/items
+[2406.02s] [AID015919146370226073L4Q][LOCAL] -/client/customization
+[2406.02s] [AID015919146370226073L4Q][LOCAL] -/client/globals
+[2406.23s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/list
+[2406.37s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[2406.42s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[2406.48s] [AID015919146370226073L4Q][LOCAL] -/client/locations
+[2406.48s] [AID015919146370226073L4Q][LOCAL] -/client/weather
+[2406.51s] [AID015919146370226073L4Q][LOCAL] -/client/game/profile/select
+[2406.57s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[2406.81s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/templates
+[2411.54s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/areas
+[2411.61s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/settings
+[2411.65s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/recipes
+[2411.86s] [AID015919146370226073L4Q][LOCAL] -/client/hideout/production/scavcase/recipes
+[2411.92s] [AID015919146370226073L4Q][LOCAL] -/client/handbook/builds/my/list
+[2411.98s] [AID015919146370226073L4Q][LOCAL] -/client/quest/list
+[2412.34s] [AID015919146370226073L4Q][LOCAL] -/client/notifier/channel/create
+[2413.24s] [AID015919146370226073L4Q][LOCAL] -/client/mail/dialog/list
+[2413.28s] [AID015919146370226073L4Q][LOCAL] -/client/friend/list
+[2413.28s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/inbox
+[2413.28s] [AID015919146370226073L4Q][LOCAL] -/client/friend/request/list/outbox
+[2413.28s] [AID015919146370226073L4Q][LOCAL] -/client/profile/status
+[2413.28s] [AID015919146370226073L4Q][LOCAL] -/client/trading/customization/storage
+[2413.38s] [AID015919146370226073L4Q][LOCAL] -/client/server/list
+[2413.38s] [AID015919146370226073L4Q][LOCAL] -/client/trading/api/getTradersList
+[2413.44s] [AID015919146370226073L4Q][LOCAL] -/client/checkVersion
+[2420.79s] [AID015919146370226073L4Q][LOCAL] -/client/game/logout

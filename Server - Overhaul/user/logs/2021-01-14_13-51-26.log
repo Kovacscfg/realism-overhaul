@@ -1,0 +1,234 @@
+[0.05s] [ERROR]-Missing files! Rebuilding cache required!
+[0.06s] [WARNING]-Rebuilding cache system
+[0.32s] [SUCCESS]-Create: Static Response Callbacks
+[0.33s] [SUCCESS]-Create: Dynamic Response Callbacks
+[0.34s] [SUCCESS]-Create: Cache Callback
+[0.34s] [SUCCESS]-Create: Start Callback
+[0.34s] [SUCCESS]-Create: Receive Callback
+[0.35s] [SUCCESS]-Create: Respond Callback
+[0.35s] [SUCCESS]-Create: Classes as global variables
+[0.36s] [SUCCESS]-Create: Item Action Callbacks
+[0.37s] -┌────────────────────────┐
+[0.37s] -│ JustEmuTarkov 1.0.3    │
+[0.37s] -│ « discord.gg/T66tGKa » │
+[0.37s] -└────────────────────────┘
+[3.38s] [SUCCESS]-[LootFix] Settings applied
+[3.57s] [SUCCESS]-[MOD] Loading Mini 14; Applied
+[4.27s] [SUCCESS]-[MOD] AllItemsExamined; Applied
+[5.18s] [SUCCESS]-[MOD] LootFix; Applied
+[5.21s] [SUCCESS]-Server is working at: https://127.0.0.1:443
+[9.69s] [LOCAL] -/singleplayer/bundles
+[9.88s] [LOCAL] -/mode/offline
+[21.86s] [AID014120227198547857TH6][LOCAL] -/client/game/start
+[21.93s] [AID014120227198547857TH6][LOCAL] -/client/menu/locale/en
+[21.98s] [AID014120227198547857TH6][LOCAL] -/client/game/version/validate
+[22.02s] [AID014120227198547857TH6][LOCAL] -/client/languages
+[22.06s] [AID014120227198547857TH6][LOCAL] -/client/game/config
+[23.03s] [AID014120227198547857TH6][LOCAL] -/client/items
+[33.06s] [AID014120227198547857TH6][LOCAL] -/client/customization
+[33.13s] [AID014120227198547857TH6][LOCAL] -/client/globals
+[34.05s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/list
+[34.91s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/select
+[34.95s] [AID014120227198547857TH6][LOCAL] -/client/profile/status
+[35.00s] [AID014120227198547857TH6][LOCAL] -/client/weather
+[35.01s] [AID014120227198547857TH6][LOCAL] -/client/locale/en
+[35.04s] [AID014120227198547857TH6][LOCAL] -/client/locations
+[35.04s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/select
+[35.10s] [AID014120227198547857TH6][LOCAL] -/client/profile/status
+[36.03s] [AID014120227198547857TH6][LOCAL] -/client/handbook/templates
+[41.25s] [AID014120227198547857TH6][LOCAL] -/client/hideout/areas
+[41.63s] [AID014120227198547857TH6][LOCAL] -/client/hideout/settings
+[42.11s] [AID014120227198547857TH6][LOCAL] -/client/hideout/production/recipes
+[42.19s] [AID014120227198547857TH6][LOCAL] -/client/hideout/production/scavcase/recipes
+[42.27s] [AID014120227198547857TH6][LOCAL] -/client/handbook/builds/my/list
+[42.33s] [AID014120227198547857TH6][LOCAL] -/client/quest/list
+[43.41s] [AID014120227198547857TH6][LOCAL] -/client/notifier/channel/create
+[44.49s] [AID014120227198547857TH6][LOCAL] -/client/mail/dialog/list
+[44.51s] [AID014120227198547857TH6][LOCAL] -/client/friend/list
+[44.51s] [AID014120227198547857TH6][LOCAL] -/client/friend/request/list/inbox
+[44.51s] [AID014120227198547857TH6][LOCAL] -/client/profile/status
+[44.53s] [AID014120227198547857TH6][LOCAL] -/client/friend/request/list/outbox
+[44.55s] [AID014120227198547857TH6][LOCAL] -/client/trading/customization/storage
+[44.71s] [AID014120227198547857TH6][LOCAL] -/client/server/list
+[44.71s] [AID014120227198547857TH6][LOCAL] -/client/trading/api/getTradersList
+[44.89s] [AID014120227198547857TH6][LOCAL] -/client/checkVersion
+[144.92s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[149.29s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[165.99s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[166.01s] [SUCCESS]-Items taken. Status OK.
+[166.01s] [SUCCESS]-Bought item: 54527a984bdc2d4e668b4567
+[169.31s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[173.61s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[177.62s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[177.63s] [SUCCESS]-Items taken. Status OK.
+[177.63s] [SUCCESS]-Bought item: 14mag3
+[178.00s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[178.02s] [SUCCESS]-Items taken. Status OK.
+[178.02s] [SUCCESS]-Bought item: 14mag3
+[178.82s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[182.18s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[182.21s] [SUCCESS]-Items taken. Status OK.
+[182.21s] [SUCCESS]-Bought item: 5addbfef5acfc400185c2857
+[183.12s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[184.96s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[184.98s] [SUCCESS]-Items taken. Status OK.
+[184.98s] [SUCCESS]-Bought item: 5aaf8e43e5b5b00015693246
+[186.13s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[188.56s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[188.58s] [SUCCESS]-Items taken. Status OK.
+[188.58s] [SUCCESS]-Bought item: barrel16
+[189.62s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[204.50s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[205.89s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[212.29s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[212.31s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[215.07s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[215.09s] [SUCCESS]-Items taken. Status OK.
+[215.09s] [SUCCESS]-Bought item: 5c0fafb6d174af02a96260ba
+[222.52s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[222.54s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[225.83s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[226.94s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[236.04s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[237.63s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[237.65s] [SUCCESS]-Items taken. Status OK.
+[237.66s] [SUCCESS]-Bought item: 5abcbb20d8ce87001773e258
+[244.49s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[244.52s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[251.08s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[259.78s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[259.80s] [SUCCESS]-Items taken. Status OK.
+[259.80s] [SUCCESS]-Bought item: 5ab24ef9e5b5b00fe93c9209
+[264.69s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[266.25s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[268.86s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[278.83s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[280.72s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[280.75s] [SUCCESS]-Items taken. Status OK.
+[280.75s] [SUCCESS]-Bought item: 57ae0171245977343c27bfcf
+[296.05s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[301.27s] [LOCAL] -/singleplayer/settings/raid/menu
+[304.65s] [AID014120227198547857TH6][LOCAL] -/client/insurance/items/list/cost
+[329.38s] [LOCAL] -/singleplayer/settings/bot/difficulty/core/core
+[329.50s] [LOCAL] -/singleplayer/settings/bot/difficulty/marksman/easy
+[329.96s] [LOCAL] -/singleplayer/settings/bot/difficulty/marksman/normal
+[329.98s] [LOCAL] -/singleplayer/settings/bot/difficulty/marksman/hard
+[330.00s] [LOCAL] -/singleplayer/settings/bot/difficulty/marksman/impossible
+[330.02s] [LOCAL] -/singleplayer/settings/bot/difficulty/assault/easy
+[330.05s] [LOCAL] -/singleplayer/settings/bot/difficulty/assault/normal
+[330.07s] [LOCAL] -/singleplayer/settings/bot/difficulty/assault/hard
+[330.10s] [LOCAL] -/singleplayer/settings/bot/difficulty/assault/impossible
+[330.12s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossTest/normal
+[330.13s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossTest/normal
+[330.15s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossTest/normal
+[330.16s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossTest/normal
+[330.17s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossBully/normal
+[330.19s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossBully/normal
+[330.20s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossBully/normal
+[330.21s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossBully/normal
+[330.23s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerTest/normal
+[330.24s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerTest/normal
+[330.25s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerTest/normal
+[330.26s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerTest/normal
+[330.28s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerBully/normal
+[330.30s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerBully/normal
+[330.31s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerBully/normal
+[330.32s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerBully/normal
+[330.33s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossKilla/normal
+[330.35s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossKilla/normal
+[330.36s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossKilla/normal
+[330.38s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossKilla/normal
+[330.39s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossKojaniy/normal
+[330.41s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossKojaniy/normal
+[330.42s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossKojaniy/normal
+[330.44s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossKojaniy/normal
+[330.45s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerKojaniy/normal
+[330.47s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerKojaniy/normal
+[330.48s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerKojaniy/normal
+[330.49s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerKojaniy/normal
+[330.51s] [LOCAL] -/singleplayer/settings/bot/difficulty/pmcBot/normal
+[330.52s] [LOCAL] -/singleplayer/settings/bot/difficulty/pmcBot/normal
+[330.53s] [LOCAL] -/singleplayer/settings/bot/difficulty/pmcBot/normal
+[330.54s] [LOCAL] -/singleplayer/settings/bot/difficulty/pmcBot/normal
+[330.56s] [LOCAL] -/singleplayer/settings/bot/difficulty/cursedAssault/easy
+[330.57s] [LOCAL] -/singleplayer/settings/bot/difficulty/cursedAssault/normal
+[330.58s] [LOCAL] -/singleplayer/settings/bot/difficulty/cursedAssault/hard
+[330.59s] [LOCAL] -/singleplayer/settings/bot/difficulty/cursedAssault/impossible
+[330.61s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossGluhar/normal
+[330.64s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossGluhar/normal
+[330.65s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossGluhar/normal
+[330.66s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossGluhar/normal
+[330.68s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+[330.69s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+[330.71s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+[330.72s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharAssault/normal
+[330.73s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+[330.75s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+[330.76s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+[330.77s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharSecurity/normal
+[330.79s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharScout/normal
+[330.81s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharScout/normal
+[330.82s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharScout/normal
+[330.83s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharScout/normal
+[330.84s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+[330.85s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+[330.87s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+[330.88s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerGluharSnipe/normal
+[330.89s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerSanitar/normal
+[330.91s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerSanitar/normal
+[330.92s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerSanitar/normal
+[330.93s] [LOCAL] -/singleplayer/settings/bot/difficulty/followerSanitar/normal
+[330.94s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossSanitar/normal
+[330.96s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossSanitar/normal
+[330.98s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossSanitar/normal
+[330.99s] [LOCAL] -/singleplayer/settings/bot/difficulty/bossSanitar/normal
+[331.01s] [LOCAL] -/singleplayer/settings/bot/difficulty/test/normal
+[331.02s] [LOCAL] -/singleplayer/settings/bot/difficulty/test/normal
+[331.04s] [LOCAL] -/singleplayer/settings/bot/difficulty/test/normal
+[331.05s] [LOCAL] -/singleplayer/settings/bot/difficulty/test/normal
+[331.06s] [LOCAL] -/singleplayer/settings/bot/difficulty/assault/normal
+[331.07s] [LOCAL] -/singleplayer/settings/bot/difficulty/assault/normal
+[331.09s] [LOCAL] -/singleplayer/settings/bot/difficulty/assault/normal
+[331.10s] [LOCAL] -/singleplayer/settings/bot/difficulty/assault/normal
+[332.76s] [LOCAL] -/singleplayer/settings/bot/limit/assault
+[332.79s] [AID014120227198547857TH6][LOCAL] -/client/game/bot/generate
+[408.79s] [AID014120227198547857TH6][LOCAL] -/raid/profile/save
+[408.80s] [ERROR]-insurance Disabled!! cause of varaible undefined or file not found. Check line 249-250 at src/classes/offraid.js
+[408.80s] [ERROR]-Disabling: Remove map key on entering, cause of offraid_f.handler.players[sessionID] is undefined
+[411.27s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/list
+[420.09s] [AID014120227198547857TH6][LOCAL] -/client/trading/api/getTradersList
+[421.89s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[421.89s] [SUCCESS]-Items taken. Status OK.
+[424.26s] [AID014120227198547857TH6][LOCAL] -/client/items
+[429.41s] [AID014120227198547857TH6][LOCAL] -/client/customization
+[429.43s] [AID014120227198547857TH6][LOCAL] -/client/globals
+[429.63s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/list
+[429.71s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/select
+[429.75s] [AID014120227198547857TH6][LOCAL] -/client/profile/status
+[429.81s] [AID014120227198547857TH6][LOCAL] -/client/weather
+[429.81s] [AID014120227198547857TH6][LOCAL] -/client/locations
+[429.84s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/select
+[429.89s] [AID014120227198547857TH6][LOCAL] -/client/profile/status
+[430.15s] [AID014120227198547857TH6][LOCAL] -/client/handbook/templates
+[434.76s] [AID014120227198547857TH6][LOCAL] -/client/hideout/areas
+[434.85s] [AID014120227198547857TH6][LOCAL] -/client/hideout/settings
+[434.91s] [AID014120227198547857TH6][LOCAL] -/client/hideout/production/recipes
+[434.99s] [AID014120227198547857TH6][LOCAL] -/client/hideout/production/scavcase/recipes
+[435.06s] [AID014120227198547857TH6][LOCAL] -/client/handbook/builds/my/list
+[435.12s] [AID014120227198547857TH6][LOCAL] -/client/quest/list
+[435.45s] [AID014120227198547857TH6][LOCAL] -/client/notifier/channel/create
+[436.35s] [AID014120227198547857TH6][LOCAL] -/client/mail/dialog/list
+[436.39s] [AID014120227198547857TH6][LOCAL] -/client/friend/list
+[436.39s] [AID014120227198547857TH6][LOCAL] -/client/friend/request/list/outbox
+[436.39s] [AID014120227198547857TH6][LOCAL] -/client/friend/request/list/inbox
+[436.39s] [AID014120227198547857TH6][LOCAL] -/client/profile/status
+[436.39s] [AID014120227198547857TH6][LOCAL] -/client/trading/customization/storage
+[436.49s] [AID014120227198547857TH6][LOCAL] -/client/server/list
+[436.49s] [AID014120227198547857TH6][LOCAL] -/client/trading/api/getTradersList
+[436.54s] [AID014120227198547857TH6][LOCAL] -/client/checkVersion
+[441.94s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[446.15s] [AID014120227198547857TH6][LOCAL] -/client/ragfair/find
+[448.54s] [AID014120227198547857TH6][LOCAL] -/client/game/profile/items/moving
+[448.56s] [SUCCESS]-Items taken. Status OK.
+[448.56s] [SUCCESS]-Bought item: mini14
+[451.00s] [AID014120227198547857TH6][LOCAL] -/client/game/logout
