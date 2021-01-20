@@ -15,7 +15,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Common",
 			"SpawnChance": 8,
-			"CreditsPrice": 8393,
+			"CreditsPrice": 1111,
 			"ItemSound": "food_tin_can",
 			"Prefab": {
 				"path": "assets/content/weapons/usable_items/item_food_beefstew/item_food_beefstew_loot.bundle",
@@ -91,7 +91,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Common",
 			"SpawnChance": 9,
-			"CreditsPrice": 11252,
+			"CreditsPrice": 1651,
 			"ItemSound": "food_tin_can",
 			"Prefab": {
 				"path": "assets/content/weapons/usable_items/item_food_beefstew_2/item_food_beefstew_2_loot.bundle",

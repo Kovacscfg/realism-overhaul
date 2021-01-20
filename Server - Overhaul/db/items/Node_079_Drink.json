@@ -720,7 +720,7 @@
 			"StackMaxSize": 1,
 			"Rarity": "Common",
 			"SpawnChance": 5,
-			"CreditsPrice": 2934,
+			"CreditsPrice": 852,
 			"ItemSound": "food_soda_can",
 			"Prefab": {
 				"path": "assets/content/weapons/usable_items/item_drink_cans/item_maxenergy_loot.bundle",
