@@ -1,64 +1,4 @@
 {
-	"": "db/version",
-	"assort": {
-		"54cb50c76803fa8b248b4571": {
-			"barter_scheme": "db/assort/54cb50c76803fa8b248b4571/barter_scheme.json",
-			"dialogue": "db/assort/54cb50c76803fa8b248b4571/dialogue.json",
-			"items": "db/assort/54cb50c76803fa8b248b4571/items.json",
-			"loyal_level_items": "db/assort/54cb50c76803fa8b248b4571/loyal_level_items.json",
-			"questassort": "db/assort/54cb50c76803fa8b248b4571/questassort.json"
-		},
-		"54cb57776803fa99248b456e": {
-			"barter_scheme": "db/assort/54cb57776803fa99248b456e/barter_scheme.json",
-			"dialogue": "db/assort/54cb57776803fa99248b456e/dialogue.json",
-			"items": "db/assort/54cb57776803fa99248b456e/items.json",
-			"loyal_level_items": "db/assort/54cb57776803fa99248b456e/loyal_level_items.json",
-			"questassort": "db/assort/54cb57776803fa99248b456e/questassort.json"
-		},
-		"579dc571d53a0658a154fbec": {
-			"barter_scheme": "db/assort/579dc571d53a0658a154fbec/barter_scheme.json",
-			"items": "db/assort/579dc571d53a0658a154fbec/items.json",
-			"loyal_level_items": "db/assort/579dc571d53a0658a154fbec/loyal_level_items.json",
-			"questassort": "db/assort/579dc571d53a0658a154fbec/questassort.json",
-			"suits": "db/assort/579dc571d53a0658a154fbec/suits.json"
-		},
-		"58330581ace78e27b8b10cee": {
-			"barter_scheme": "db/assort/58330581ace78e27b8b10cee/barter_scheme.json",
-			"items": "db/assort/58330581ace78e27b8b10cee/items.json",
-			"loyal_level_items": "db/assort/58330581ace78e27b8b10cee/loyal_level_items.json",
-			"questassort": "db/assort/58330581ace78e27b8b10cee/questassort.json"
-		},
-		"5935c25fb3acc3127c3d8cd9": {
-			"barter_scheme": "db/assort/5935c25fb3acc3127c3d8cd9/barter_scheme.json",
-			"items": "db/assort/5935c25fb3acc3127c3d8cd9/items.json",
-			"loyal_level_items": "db/assort/5935c25fb3acc3127c3d8cd9/loyal_level_items.json",
-			"questassort": "db/assort/5935c25fb3acc3127c3d8cd9/questassort.json"
-		},
-		"5a7c2eca46aef81a7ca2145d": {
-			"barter_scheme": "db/assort/5a7c2eca46aef81a7ca2145d/barter_scheme.json",
-			"items": "db/assort/5a7c2eca46aef81a7ca2145d/items.json",
-			"loyal_level_items": "db/assort/5a7c2eca46aef81a7ca2145d/loyal_level_items.json",
-			"questassort": "db/assort/5a7c2eca46aef81a7ca2145d/questassort.json"
-		},
-		"5ac3b934156ae10c4430e83c": {
-			"barter_scheme": "db/assort/5ac3b934156ae10c4430e83c/barter_scheme.json",
-			"items": "db/assort/5ac3b934156ae10c4430e83c/items.json",
-			"loyal_level_items": "db/assort/5ac3b934156ae10c4430e83c/loyal_level_items.json",
-			"questassort": "db/assort/5ac3b934156ae10c4430e83c/questassort.json",
-			"suits": "db/assort/5ac3b934156ae10c4430e83c/suits.json"
-		},
-		"5c0647fdd443bc2504c2d371": {
-			"barter_scheme": "db/assort/5c0647fdd443bc2504c2d371/barter_scheme.json",
-			"items": "db/assort/5c0647fdd443bc2504c2d371/items.json",
-			"loyal_level_items": "db/assort/5c0647fdd443bc2504c2d371/loyal_level_items.json",
-			"questassort": "db/assort/5c0647fdd443bc2504c2d371/questassort.json"
-		},
-		"ragfair": {
-			"barter_scheme": "db/assort/ragfair/barter_scheme.json",
-			"items": "db/assort/ragfair/items.json",
-			"loyal_level_items": "db/assort/ragfair/loyal_level_items.json"
-		}
-	},
 	"bots": {
 		"bots": "db/bots/bots.txt",
 		"assault": {
@@ -3006,6 +2946,67 @@
 				"inventories_98": "db/bots/usec/inventory/inventories_98.json",
 				"inventories_99": "db/bots/usec/inventory/inventories_99.json"
 			}
+		}
+	},
+	"": "db/version",
+	"assort": {
+		"54cb50c76803fa8b248b4571": {
+			"barter_scheme": "db/assort/54cb50c76803fa8b248b4571/barter_scheme.json",
+			"dialogue": "db/assort/54cb50c76803fa8b248b4571/dialogue.json",
+			"items": "db/assort/54cb50c76803fa8b248b4571/items.json",
+			"loyal_level_items": "db/assort/54cb50c76803fa8b248b4571/loyal_level_items.json",
+			"new barter_scheme": "db/assort/54cb50c76803fa8b248b4571/new barter_scheme.json",
+			"questassort": "db/assort/54cb50c76803fa8b248b4571/questassort.json"
+		},
+		"54cb57776803fa99248b456e": {
+			"barter_scheme": "db/assort/54cb57776803fa99248b456e/barter_scheme.json",
+			"dialogue": "db/assort/54cb57776803fa99248b456e/dialogue.json",
+			"items": "db/assort/54cb57776803fa99248b456e/items.json",
+			"loyal_level_items": "db/assort/54cb57776803fa99248b456e/loyal_level_items.json",
+			"questassort": "db/assort/54cb57776803fa99248b456e/questassort.json"
+		},
+		"579dc571d53a0658a154fbec": {
+			"barter_scheme": "db/assort/579dc571d53a0658a154fbec/barter_scheme.json",
+			"items": "db/assort/579dc571d53a0658a154fbec/items.json",
+			"loyal_level_items": "db/assort/579dc571d53a0658a154fbec/loyal_level_items.json",
+			"questassort": "db/assort/579dc571d53a0658a154fbec/questassort.json",
+			"suits": "db/assort/579dc571d53a0658a154fbec/suits.json"
+		},
+		"58330581ace78e27b8b10cee": {
+			"barter_scheme": "db/assort/58330581ace78e27b8b10cee/barter_scheme.json",
+			"items": "db/assort/58330581ace78e27b8b10cee/items.json",
+			"loyal_level_items": "db/assort/58330581ace78e27b8b10cee/loyal_level_items.json",
+			"questassort": "db/assort/58330581ace78e27b8b10cee/questassort.json"
+		},
+		"5935c25fb3acc3127c3d8cd9": {
+			"barter_scheme": "db/assort/5935c25fb3acc3127c3d8cd9/barter_scheme.json",
+			"items": "db/assort/5935c25fb3acc3127c3d8cd9/items.json",
+			"loyal_level_items": "db/assort/5935c25fb3acc3127c3d8cd9/loyal_level_items.json",
+			"questassort": "db/assort/5935c25fb3acc3127c3d8cd9/questassort.json"
+		},
+		"5a7c2eca46aef81a7ca2145d": {
+			"barter_scheme": "db/assort/5a7c2eca46aef81a7ca2145d/barter_scheme.json",
+			"items": "db/assort/5a7c2eca46aef81a7ca2145d/items.json",
+			"loyal_level_items": "db/assort/5a7c2eca46aef81a7ca2145d/loyal_level_items.json",
+			"questassort": "db/assort/5a7c2eca46aef81a7ca2145d/questassort.json"
+		},
+		"5ac3b934156ae10c4430e83c": {
+			"barter_scheme": "db/assort/5ac3b934156ae10c4430e83c/barter_scheme.json",
+			"items": "db/assort/5ac3b934156ae10c4430e83c/items.json",
+			"loyal_level_items": "db/assort/5ac3b934156ae10c4430e83c/loyal_level_items.json",
+			"questassort": "db/assort/5ac3b934156ae10c4430e83c/questassort.json",
+			"suits": "db/assort/5ac3b934156ae10c4430e83c/suits.json"
+		},
+		"5c0647fdd443bc2504c2d371": {
+			"barter_scheme": "db/assort/5c0647fdd443bc2504c2d371/barter_scheme.json",
+			"items": "db/assort/5c0647fdd443bc2504c2d371/items.json",
+			"loyal_level_items": "db/assort/5c0647fdd443bc2504c2d371/loyal_level_items.json",
+			"questassort": "db/assort/5c0647fdd443bc2504c2d371/questassort.json"
+		},
+		"ragfair": {
+			"barter_scheme": "db/assort/ragfair/barter_scheme.json",
+			"items": "db/assort/ragfair/items.json",
+			"loyal_level_items": "db/assort/ragfair/loyal_level_items.json"
 		}
 	},
 	"cacheBase": {

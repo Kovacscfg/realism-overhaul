@@ -4,5 +4,11 @@
 		"author": "CFG",
 		"version": "1.0.6",
 		"enabled": true
+	},
+	{
+		"name": "BetterBundles",
+		"author": "AppeazeTheCheese",
+		"version": "1.0.1",
+		"enabled": true
 	}
 ]

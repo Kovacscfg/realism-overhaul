@@ -23,7 +23,7 @@
 	"bots": {
 		"pmc": {
 			"enabled": true,
-			"spawnChance": 50,
+			"spawnChance": 80,
 			"usecChance": 50
 		},
 		"limits": {

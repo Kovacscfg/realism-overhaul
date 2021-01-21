@@ -6,7 +6,7 @@
             "root": ""
         },
         "AimPunchMagnitude": 45,
-        "SkillProgressRate": 1,
+        "SkillProgressRate": 0.5,
         "WeaponSkillProgressRate": 2,
         "SkillAtrophy": false,
         "exp": {
@@ -346,7 +346,7 @@
         "MaxBotsAliveOnMap": 24,
         "SavagePlayCooldown": 1200,
         "SavagePlayCooldownNdaFree": 1200,
-        "MarksmanAccuracy": 1.8,
+        "MarksmanAccuracy": 1.0,
         "SavagePlayCooldownDevelop": 0,
         "TODSkyDate": "08-01-2018",
         "Mastering": [
@@ -779,8 +779,8 @@
         "TimeBeforeDeployLocal": 10,
         "LoadTimeSpeedProgress": 1,
         "BaseLoadTime": 0.85,
-        "BaseUnloadTime": 2.5,
-        "BaseCheckTime": 1.5,
+        "BaseUnloadTime": 1,
+        "BaseCheckTime": 1,
         "Customization": {
             "SavageHead": {
                 "wild_head_1": {
@@ -2648,7 +2648,7 @@
             "priceStabilizerEnabled": false,
             "includePveTraderSales": false,
             "priceStabilizerStartIntervalInHours": 1,
-            "minUserLevel": 10,
+            "minUserLevel": 50,
             "communityTax": 2.5,
             "communityItemTax": 5,
             "communityRequirementTax": 5,

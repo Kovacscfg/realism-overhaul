@@ -38,5 +38,13 @@
 		"password": "123",
 		"wipe": false,
 		"edition": "Edge Of Darkness"
+	},
+	"AID021720433613205982Bav": {
+		"id": "AID021720433613205982Bav",
+		"nickname": "",
+		"email": "Testplay",
+		"password": "123",
+		"wipe": false,
+		"edition": "Edge Of Darkness"
 	}
 }

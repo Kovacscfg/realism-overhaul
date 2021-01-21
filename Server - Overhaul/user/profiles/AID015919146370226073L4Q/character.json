@@ -34,58 +34,58 @@
 	},
 	"Health": {
 		"Hydration": {
-			"Current": 26.5008087,
+			"Current": 100,
 			"Maximum": 100
 		},
 		"Energy": {
-			"Current": 98.0500259,
+			"Current": 100,
 			"Maximum": 100
 		},
 		"BodyParts": {
 			"Head": {
 				"Health": {
-					"Current": 34.27562,
+					"Current": 35,
 					"Maximum": 35
 				}
 			},
 			"Chest": {
 				"Health": {
-					"Current": 83.63,
+					"Current": 85,
 					"Maximum": 85
 				}
 			},
 			"Stomach": {
 				"Health": {
-					"Current": 68.55124,
+					"Current": 70,
 					"Maximum": 70
 				}
 			},
 			"LeftArm": {
 				"Health": {
-					"Current": 59.4725151,
+					"Current": 60,
 					"Maximum": 60
 				}
 			},
 			"RightArm": {
 				"Health": {
-					"Current": 59.4725151,
+					"Current": 60,
 					"Maximum": 60
 				}
 			},
 			"LeftLeg": {
 				"Health": {
-					"Current": 63.51186,
+					"Current": 65,
 					"Maximum": 65
 				}
 			},
 			"RightLeg": {
 				"Health": {
-					"Current": 63.51186,
+					"Current": 65,
 					"Maximum": 65
 				}
 			}
 		},
-		"UpdateTime": 1610747744
+		"UpdateTime": 1611182346
 	},
 	"Inventory": {
 		"items": [
